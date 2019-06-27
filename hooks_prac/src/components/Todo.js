@@ -18,7 +18,6 @@ const Todo = props => {
         setTodoName("")
     }
 
-    
     return(
         <React.Fragment>
             <input 
